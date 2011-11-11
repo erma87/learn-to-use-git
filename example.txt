@@ -1,0 +1,52 @@
+Here is a sample file
+with multiple lines to edit.
+
+Change, delete, or add any lines, and
+see what happens.
+
+
+======= Don't Edit These Lines ===========
+
+After you save the changes locally, you should run commands such as:
+$ git status
+
+to see which files have changed.
+
+To see which specific lines have changed, you can use:
+$ git diff
+
+or
+
+$ git gui.
+
+To stage your changes to be committed, use:
+$ git add sample.txt
+
+Make changes to any other files, or create/delete them and add them as well. A shortcut for
+adding all files is:
+$ git add .
+
+When you're ready to commit the changes, use:
+$ git commit -m "Include your message here."
+
+=========================================
+
+
+
+
+Some more lines here to experiment
+with and change.
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+

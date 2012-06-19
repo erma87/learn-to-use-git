@@ -1,6 +1,6 @@
+---
 
-
-Here is a sample file
+Here is a sample file ----
 with multiple lines to edit.
 
 Change, delete, or add any lines, and

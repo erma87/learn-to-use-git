@@ -6,6 +6,8 @@ with multiple lines to edit.
 Change, delete, or add any lines, and
 see what happens.
 
+hello there
+how goes it?
 
 ======= Don't Edit These Lines ===========
 
@@ -52,3 +54,6 @@ i
 j
 k
 
+
+
+JAKE WAS HERE!

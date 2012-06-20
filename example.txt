@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 stanley!
 
+=======
+Here is the remote line that Eric just added!
+    
+>>>>>>> 28e877716503a9952e93a51298e560633d42929f
 Here is a sample file
 with multiple lines to edit.
 
